@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Product 1",
+      "price": "1001",
+      "path": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/5/s/c/m-1jgrf-016-red-jugular-original-imaghhub6jh5fece.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 2000,
+      "path": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/j/4/j/m-auk0164-ausk-original-imagzbp8thhsa5y5.jpeg?q=70"
+    },
+    {
+      "name": "Product 5",
+      "price": "9999",
+      "discount": "11",
+      "path": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/r/v/k/m-ausk0165-ausk-original-imaghu9fbhcgf2za.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "product 3",
+      "price": "2500",
+      "discount": "4",
+      "path": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/c/o/e/s-st10-vebnor-original-imagzdsu8hkehz8f.jpeg?q=70",
+      "id": 5
+    }
+  ]
+}
